@@ -1,0 +1,19 @@
+body {
+	font-family: "Verdana", Sans-serif;
+	line-height: 1;
+
+	margin: 5px;
+}
+
+h1 {
+	font-size: 36px;
+	font: bold;
+	margin: 10px;
+
+}
+
+.incorrectGuesses {
+	float: left;
+	margin: 0px 5px;
+}
+
